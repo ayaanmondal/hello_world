@@ -1,2 +1,2 @@
 # hello_world
-my first github repo
+my first githun project
